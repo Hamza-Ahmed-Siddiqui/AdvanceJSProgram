@@ -1,0 +1,82 @@
+/*  Element selectors */
+p{
+    background-color: red;
+    color: whitesmoke;
+    border: 2px solid black;
+    
+}
+
+
+/* Class selectors */
+#sell{
+   background-color: chartreuse ;
+   color: black;
+   font-size: larger;
+   font-weight: bold;
+   font: bolder;
+   font-style: italic;
+   font-family: 'Times New Roman', Times, serif;
+   margin: 10px 5px 10px 5px;
+   padding: 10px 5px 10px 5px ;
+   border-radius: 15px;
+   width: 300px ;
+
+}
+
+/* #container{
+    padding: 40px 6px 40px 6px;
+    margin: 10px 5px 10px 5px;
+    border-radius: 60px !important;
+} */
+
+/* #sel{
+    color: black; This is a comment id selectors
+} */
+
+
+/* label , table{
+    this is grouping selectors
+} */
+
+.navbar{
+    border-radius: 25px;
+    background-color: black;
+    padding: 4px 12px;
+}
+
+.navbar ul{
+    text-decoration: none;
+    overflow: auto  ;
+    margin: 10px 8px ;
+}
+.navbar li a {
+    text-decoration: none;
+    padding: 0px 18px;
+
+}
+
+.navbar ul  li{
+  float: left;
+}
+
+#search{
+padding-right: 100px;
+border-radius: 20px;
+width: 300px;
+padding-left: 10px;
+/* box-sizing: border-box; */
+}
+
+
+
+#timee{
+    border: 3px solid black;
+    margin: 4px;
+    padding: 14px;
+    text-align: center;
+    background-color: burlywood;
+}
+#time{
+    font-size: larger;
+    font-weight: bold;
+}
